@@ -1,3 +1,11 @@
+# NOTIFY
+> I like this tools so much that I use it in many of my project. 
+> because his author deleted the repository
+> my project failed to compile and repackage，
+> so I copied its code and upload it to my repository.
+> if you like this tools too, you can flower the original author and give this
+
+
 # Due to design reasons, this library has stopped updating and maintenance, and a new tool library will be launched in the future
 gotool migrated to [address](https://github.com/druidcaesa/ztool)
 =======

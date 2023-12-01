@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/druidcaesa/gotool"
+	"github.com/jiaoningbo/gotool"
 	"reflect"
 	"testing"
 )

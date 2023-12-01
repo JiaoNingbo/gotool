@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/druidcaesa/gotool"
+	"github.com/jiaoningbo/gotool"
 	"testing"
 )
 

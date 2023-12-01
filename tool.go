@@ -21,7 +21,7 @@ import (
 
 // @Title tool
 // @Description A simple, semantic and developer-friendly Golang tool development set
-// @Page github.com/druidcaesa/gotool
+// @Page github.com/jiaoningbo/gotool
 // @Version v0.0.1
 // @Author druidcaesa
 // @Email hbsjzfynxm@gmail.com

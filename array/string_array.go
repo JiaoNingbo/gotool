@@ -1,7 +1,7 @@
 package array
 
 import (
-	"github.com/druidcaesa/gotool/logs"
+	"github.com/jiaoningbo/gotool/logs"
 	"strconv"
 )
 
