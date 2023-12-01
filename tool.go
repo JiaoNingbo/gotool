@@ -1,22 +1,22 @@
 package gotool
 
 import (
-	"github.com/druidcaesa/gotool/array"
-	"github.com/druidcaesa/gotool/bcrypt"
-	"github.com/druidcaesa/gotool/captcha"
-	"github.com/druidcaesa/gotool/compression"
-	"github.com/druidcaesa/gotool/conversion"
-	"github.com/druidcaesa/gotool/convert"
-	"github.com/druidcaesa/gotool/date"
-	"github.com/druidcaesa/gotool/desensitized"
-	"github.com/druidcaesa/gotool/id_utils"
-	"github.com/druidcaesa/gotool/logs"
-	"github.com/druidcaesa/gotool/openfile"
-	"github.com/druidcaesa/gotool/page"
-	"github.com/druidcaesa/gotool/pretty"
-	"github.com/druidcaesa/gotool/request"
-	"github.com/druidcaesa/gotool/str"
-	"github.com/druidcaesa/gotool/tree"
+	"github.com/jiaoningbo/gotool/array"
+	"github.com/jiaoningbo/gotool/bcrypt"
+	"github.com/jiaoningbo/gotool/captcha"
+	"github.com/jiaoningbo/gotool/compression"
+	"github.com/jiaoningbo/gotool/conversion"
+	"github.com/jiaoningbo/gotool/convert"
+	"github.com/jiaoningbo/gotool/date"
+	"github.com/jiaoningbo/gotool/desensitized"
+	"github.com/jiaoningbo/gotool/id_utils"
+	"github.com/jiaoningbo/gotool/logs"
+	"github.com/jiaoningbo/gotool/openfile"
+	"github.com/jiaoningbo/gotool/page"
+	"github.com/jiaoningbo/gotool/pretty"
+	"github.com/jiaoningbo/gotool/request"
+	"github.com/jiaoningbo/gotool/str"
+	"github.com/jiaoningbo/gotool/tree"
 )
 
 // @Title tool
