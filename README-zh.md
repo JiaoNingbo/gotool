@@ -4,6 +4,7 @@
 > 我的项目编译重新打包失败，
 > 所以我复制了它的代码并将其上传到我的存储库。
 > 如果你也喜欢这个工具，可以去关注原作者
+> https://github.com/druidcaesa
 
 gotool
 =======
@@ -12,7 +13,7 @@ gotool是一个小而全的Golang工具集，主要是将日常开发中常用�
 
 ### 简体中文 [English](README.md)
 # 请关注
-- [https://github.com/druidcaesa/gotool](https://github.com/druidcaesa/gotool)
+- [https://github.com/jiaoningbo/gotool](https://github.com/jiaoningbo/gotool)
 - [https://gitee.com/termites/gotool](https://gitee.com/termites/gotool)
 
 ## 2021-7-9更新内容详细使用请看文档
@@ -35,14 +36,14 @@ gotool是一个小而全的Golang工具集，主要是将日常开发中常用�
 
 ### 安装
 
-go get github.com/druidcaesa/gotool
+go get github.com/jiaoningbo/gotool
 
-go.mod github.com/druidcaesa/gotool
+go.mod github.com/jiaoningbo/gotool
 
 ### 引入
 
 ```go
-import "github.com/druidcaesa/gotool"
+import "github.com/jiaoningbo/gotool"
 ```
 
 TypeConversion
@@ -1196,9 +1197,9 @@ package test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/druidcaesa/gotool"
-	"github.com/druidcaesa/gotool/pretty"
-	"github.com/druidcaesa/gotool/tree"
+	"github.com/jiaoningbo/gotool"
+	"github.com/jiaoningbo/gotool/pretty"
+	"github.com/jiaoningbo/gotool/tree"
 	"testing"
 )
 

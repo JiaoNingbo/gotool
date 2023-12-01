@@ -23,7 +23,7 @@ import (
 // @Description A simple, semantic and developer-friendly Golang tool development set
 // @Page github.com/jiaoningbo/gotool
 // @Version v0.0.1
-// @Author druidcaesa
+// @Author jiaoningbo
 // @Email hbsjzfynxm@gmail.com
 
 var (
